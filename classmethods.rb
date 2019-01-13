@@ -9,6 +9,7 @@ class Furniture
    def getArea
       @width * @height * @length
    end
+
  end
 
 
